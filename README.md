@@ -14,6 +14,28 @@ Forever, if time coudl persist.
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
+### Run Locally
+---
+
+The Code is written in [Python](https://en.wikipedia.org/wiki/Python_(programming_language)). You need to [install](https://www.python.org/downloads/) all the dependencies of Python to get started. For the purpose of this application, you need to install [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) to install [dependencies](https://github.com/thedhanawada/ChandlerSaid/blob/master/requirements.txt) of this application
+
+Install all the required dependencies with:
+
+```
+pip install requirements.txt
+```
+Later, simply run:
+
+```
+python twitter-post-status.py
+```
+
+### Configuring Twitter Keys
+---
+
+The [config.py](https://github.com/thedhanawada/ChandlerSaid/blob/master/config.py) file holds all they secret keys that lets the application interact and post messages on Twitter. You need to configure this file to let the application work. Get your own [Twitter Keys](https://developer.twitter.com)
+
+
 ### Credits
 ---
 * [Transcripts](https://fangj.github.io/friends/)
