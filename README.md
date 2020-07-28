@@ -33,9 +33,9 @@ The [config.py](https://github.com/thedhanawada/ChandlerSaid/blob/master/config.
 
 ### Configuring Twitter Keys
 ---
-*[twitter](https://pypi.org/project/twitter/)
-*[termcolor](https://pypi.org/project/termcolor2/)
-*[urllib3](https://pypi.org/project/urllib3/)
+* [twitter](https://pypi.org/project/twitter/)
+* [termcolor](https://pypi.org/project/termcolor2/)
+* [urllib3](https://pypi.org/project/urllib3/)
 
 ### Credits
 ---
