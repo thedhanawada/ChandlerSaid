@@ -27,9 +27,22 @@ Later, simply run:
 ```
 python twitter-post-status.py
 ```
+
+### Hosting on a Server
+---
+This application is hosted on [Heroku](https://heroku.com). Simply, fork the project, edit the keys in the configuration file and deploy on Heroku. You must attach a [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler) with a 10 minute interval to keep this running for a period of time.
+
 ### Configuring Twitter Keys
 ---
 The [config.py](https://github.com/thedhanawada/ChandlerSaid/blob/master/config.py) file holds all they secret keys that lets the application interact and post messages on Twitter. You need to configure this file to let the application work. Get your own [Twitter Keys](https://developer.twitter.com)
+
+### Data
+---
+Chandler's transcripts were scrapped from the main transcripts and was converted to [Google Sheets](https://www.google.com.au/sheets/about/) file and I connected [Sheety](https://sheety.co) to create an API. At the moment of creating this app, I had to use this to get the app off the ground. Be cautious, the future of the app might not rely on this particular service. 
+
+Here is the [link to the Sheety API](https://v2-api.sheety.co/fa7d3aeaa9bd9ff88dfc5d7b867b3fc1/myChaandyApi/chandler) which, at the moment, is public for consumption. But, please be gentle.
+
+I am looking forward to host my own api with all the data.
 
 ### Configuring Twitter Keys
 ---
