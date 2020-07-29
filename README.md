@@ -6,7 +6,7 @@ Me being an ardent fan of [FRIENDS](https://en.wikipedia.org/wiki/Friends) & [Ch
 
 [This Twitter Handle](https://twitter.com/BingItDown) ![alt text][1.2] keeps tweeting once every 10 minutes with a random line of Chandler Bing. 
 
-Forever, if time coudl persist.
+Forever, if time could persist.
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
