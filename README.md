@@ -56,3 +56,7 @@ I am looking forward to host my own api with all the data.
 * [Header Image](https://www.wallpaperflare.com/search?wallpaper=chandler)
 * Transcripts and names are copyrighted resources of the production house of  [FRIENDS](https://en.wikipedia.org/wiki/Friends)
 * [GitSocial](https://github.com/carlsednaoui/gitsocial) 
+
+### License
+---
+The project is licensed under MIT. Please refer the [License file](https://github.com/thedhanawada/ChandlerSaid/blob/master/LICENSE) for more details.
