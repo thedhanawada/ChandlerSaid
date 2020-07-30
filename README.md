@@ -30,11 +30,11 @@ python twitter-post-status.py
 
 ### Hosting on a Server
 ---
-This application is hosted on [Heroku](https://heroku.com). Simply, fork the project, edit the keys in the configuration file and deploy on Heroku. You must attach a [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler) with a 10 minute interval to keep this running for a period of time.
+This application is hosted on [Heroku](https://heroku.com). Simply, fork the project, edit the keys in the configuration file and deploy on Heroku. You must attach a [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler) with a 10 minute interval to keep this running for a specfic period of time.
 
 ### Configuring Twitter Keys
 ---
-The [config.py](https://github.com/thedhanawada/ChandlerSaid/blob/master/config.py) file holds all they secret keys that lets the application interact and post messages on Twitter. You need to configure this file to let the application work. Get your own [Twitter Keys](https://developer.twitter.com)
+The [config.py](https://github.com/thedhanawada/ChandlerSaid/blob/master/config.py) file holds all the secret keys that lets the application interact and post messages on Twitter. You need to configure this file to let the application work. Get your own [Twitter Keys](https://developer.twitter.com)
 
 ### Data
 ---
