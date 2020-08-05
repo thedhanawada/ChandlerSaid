@@ -1,10 +1,10 @@
 ### ChandlerSaid ![alt text][1.2]
 ---
-![alt text](https://c4.wallpaperflare.com/wallpaper/564/64/37/chandler-bing-friends-tv-series-joey-tribbiani-monica-geller-wallpaper-preview.jpg "F.R.I.E.N.D.S Group Picture")
+![alt text](images/resized_friends.jpeg "F.R.I.E.N.D.S Group Picture")
 
 Me being an ardent fan of [FRIENDS](https://en.wikipedia.org/wiki/Friends) & [Chandler Bing](https://en.wikipedia.org/wiki/Chandler_Bing) (well, who isn't?) on one fine day, wanted to create twitter account that could keep tweeting every single line that [Chandler Bing](https://en.wikipedia.org/wiki/Chandler_Bing)  spoke on the show.
 
-[This Twitter Handle](https://twitter.com/BingItDown) ![alt text][1.2] keeps tweeting once every 10 minutes with a random line of Chandler Bing. 
+[This Twitter Handle](https://twitter.com/BingItDown) ![alt text][1.2] keeps tweeting once every 10 minutes with a random line of Chandler Bing.
 
 Forever, if time could persist.
 
@@ -38,7 +38,7 @@ The [config.py](https://github.com/thedhanawada/ChandlerSaid/blob/master/config.
 
 ### Data
 ---
-Chandler's transcripts were scrapped from the main transcripts and was converted to [Google Sheets](https://www.google.com.au/sheets/about/) file and I connected [Sheety](https://sheety.co) to create an API. At the moment of creating this app, I had to use this to get the app off the ground. Be cautious, the future of the app might not rely on this particular service. 
+Chandler's transcripts were scrapped from the main transcripts and was converted to [Google Sheets](https://www.google.com.au/sheets/about/) file and I connected [Sheety](https://sheety.co) to create an API. At the moment of creating this app, I had to use this to get the app off the ground. Be cautious, the future of the app might not rely on this particular service.
 
 Here is the [link to the Sheety API](https://v2-api.sheety.co/fa7d3aeaa9bd9ff88dfc5d7b867b3fc1/myChaandyApi/chandler) which, at the moment, is public for consumption. But, please be gentle.
 
@@ -55,4 +55,4 @@ I am looking forward to host my own api with all the data.
 * [Transcripts](https://fangj.github.io/friends/)
 * [Header Image](https://www.wallpaperflare.com/search?wallpaper=chandler)
 * Transcripts and names are copyrighted resources of the production house of  [FRIENDS](https://en.wikipedia.org/wiki/Friends)
-* [GitSocial](https://github.com/carlsednaoui/gitsocial) 
+* [GitSocial](https://github.com/carlsednaoui/gitsocial)
